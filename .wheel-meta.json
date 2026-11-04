@@ -1,0 +1,22 @@
+{
+  "wheel_id": 743,
+  "structure": "umbrella",
+  "slug": "toowoombahousepainting-155",
+  "project": "house-painters-toowoomba-quotes-explained-a823b19e02f110b774866",
+  "parent_t1_ref": "toowoombahousepainting-010",
+  "node_role": "buffer",
+  "money_target": "toowoombahousepainting.com.au",
+  "primary_kw": "house painters toowoomba quotes explained",
+  "intended_url": "https://sitesau.github.io/toowoombahousepainting-155/",
+  "tier": "T2",
+  "writeback_nonce": "adff9e8204766bcc",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/house-painters-toowoomba-toowoombahousepainting-010/",
+      "anchor": "this house painters toowoomba resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
